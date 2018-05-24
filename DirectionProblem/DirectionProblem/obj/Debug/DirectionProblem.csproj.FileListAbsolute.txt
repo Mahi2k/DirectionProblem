@@ -1,0 +1,6 @@
+c:\users\pal\documents\visual studio 2012\Projects\DirectionProblem\DirectionProblem\bin\Debug\DirectionProblem.exe.config
+c:\users\pal\documents\visual studio 2012\Projects\DirectionProblem\DirectionProblem\obj\Debug\DirectionProblem.csprojResolveAssemblyReference.cache
+c:\users\pal\documents\visual studio 2012\Projects\DirectionProblem\DirectionProblem\bin\Debug\DirectionProblem.exe
+c:\users\pal\documents\visual studio 2012\Projects\DirectionProblem\DirectionProblem\bin\Debug\DirectionProblem.pdb
+c:\users\pal\documents\visual studio 2012\Projects\DirectionProblem\DirectionProblem\obj\Debug\DirectionProblem.exe
+c:\users\pal\documents\visual studio 2012\Projects\DirectionProblem\DirectionProblem\obj\Debug\DirectionProblem.pdb
